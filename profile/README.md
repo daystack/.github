@@ -1,6 +1,6 @@
 # DayStack
 
-<img src="https://www.daystack.co/_next/image?url=%2Ficon-transparent.png&w=128&q=75" width="128" alt="DayStack Logo">
+<img src="https://www.daystack.co/_next/image?url=%2Fapp-preview.png&w=1920&q=75" width="960" alt="DayStack Logo">
 
 ## Building Better Days, One Stack at a Time
 
