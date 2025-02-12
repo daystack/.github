@@ -1,6 +1,6 @@
 # DayStack
 
-<img src="https://www.daystack.co/_next/image?url=%2Fapp-preview.png&w=1920&q=75" width="960" alt="DayStack Logo">
+<img src="https://www.daystack.co/_next/image?url=%2Fapp-preview.png&w=1920&q=75" width="480" alt="DayStack Logo">
 
 ## Building Better Days, One Stack at a Time
 
@@ -24,7 +24,7 @@ DayStack is an health and productivity app that helps people build lasting habit
 ### 📱 Get the App
 
 DayStack is available on the iOS App Store:
-<coming soon>
+\<coming soon\>
 
 ### 📫 Connect With Us
 
