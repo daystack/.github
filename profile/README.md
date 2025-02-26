@@ -23,8 +23,7 @@ DayStack is an health and productivity app that helps people build lasting habit
 
 ### 📱 Get the App
 
-DayStack is available on the iOS App Store:
-\<coming soon\>
+DayStack is available on the iOS App Store: https://apps.apple.com/us/app/daystack-pro/id6741811908
 
 ### 📫 Connect With Us
 
